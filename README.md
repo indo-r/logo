@@ -1,5 +1,7 @@
 # Logo R Indonesia
 
+![](https://raw.githubusercontent.com/indo-r/logo/master/r-indonesia.png)
+
 Kontributor Arif Rahman Hakim dan Nadine Pricilia
 
 Lisensi CC-BY-SA
